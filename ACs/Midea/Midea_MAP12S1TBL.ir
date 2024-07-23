@@ -2,6 +2,7 @@ Filetype: IR signals file
 Version: 1
 #
 # Midea MAP12S1TBL AC <--
+# I was not able to copy the Set button for some reason despite it being IR <--
 #
 name: Off
 type: raw
